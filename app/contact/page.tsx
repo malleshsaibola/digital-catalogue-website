@@ -13,7 +13,7 @@ export default function ContactPage() {
               Send us a message
             </h2>
             <p className="text-gray-600 mb-6">
-              Have questions about our renewable energy products? Fill out the form below and we'll get back to you as soon as possible.
+              Have questions about our renewable energy products? Fill out the form below and we&apos;ll get back to you as soon as possible.
             </p>
             <ContactForm />
           </div>

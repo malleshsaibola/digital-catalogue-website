@@ -10,7 +10,7 @@ export default function ProductNotFound() {
             Product Not Found
           </h2>
           <p className="text-gray-600">
-            Sorry, we couldn't find the product you're looking for.
+            Sorry, we couldn&apos;t find the product you&apos;re looking for.
           </p>
         </div>
         
