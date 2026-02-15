@@ -8,7 +8,7 @@ import productsData from '@/data/products.json';
  * @returns Array of all products
  */
 export function getAllProducts(): Product[] {
-  return productsData as Product[];
+  return productsData as unknown as Product[];
 }
 
 /**
@@ -17,5 +17,5 @@ export function getAllProducts(): Product[] {
  * @returns The product if found, undefined otherwise
  */
 export function getProductById(id: string): Product | undefined {
-  return productsData.find((p) => p.id === id) as Product | undefined;
+  return productsData.find((p) => p.id === id) as unknown as Product | undefined;
 }
