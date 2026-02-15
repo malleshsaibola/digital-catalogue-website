@@ -1,0 +1,89 @@
+[
+  {
+    "id": "solar-panel-550w",
+    "name": "550W Monocrystalline Solar Panel",
+    "description": "High-efficiency monocrystalline solar panel perfect for residential installations. Features advanced cell technology for maximum power output even in low-light conditions.",
+    "specifications": {
+      "Power Output": "550W",
+      "Efficiency": "21.5%",
+      "Cell Type": "Monocrystalline",
+      "Dimensions": "2278 x 1134 x 35mm",
+      "Weight": "28.5 kg",
+      "Warranty": "25 years performance, 12 years product"
+    },
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80"
+  },
+  {
+    "id": "hybrid-inverter-5kw",
+    "name": "5kW Hybrid Solar Inverter",
+    "description": "Smart hybrid inverter with battery storage capability. Seamlessly switches between solar, battery, and grid power to optimize energy usage and reduce electricity costs.",
+    "specifications": {
+      "Power Rating": "5kW",
+      "Input Voltage": "150-500V DC",
+      "Output Voltage": "230V AC",
+      "Efficiency": "97.6%",
+      "Battery Compatibility": "Lithium-ion, Lead-acid",
+      "Warranty": "10 years"
+    },
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&q=80"
+  },
+  {
+    "id": "lithium-battery-10kwh",
+    "name": "10kWh Lithium Battery Storage",
+    "description": "Modular lithium-ion battery system for home energy storage. Stores excess solar energy for use during peak hours or power outages. Expandable design allows for future capacity increases.",
+    "specifications": {
+      "Capacity": "10kWh",
+      "Battery Type": "Lithium Iron Phosphate (LiFePO4)",
+      "Voltage": "51.2V",
+      "Cycle Life": "6000+ cycles at 80% DOD",
+      "Dimensions": "600 x 500 x 200mm",
+      "Weight": "95 kg",
+      "Warranty": "10 years"
+    },
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+  },
+  {
+    "id": "solar-panel-400w",
+    "name": "400W Polycrystalline Solar Panel",
+    "description": "Cost-effective polycrystalline solar panel ideal for large-scale installations. Reliable performance with excellent value for money.",
+    "specifications": {
+      "Power Output": "400W",
+      "Efficiency": "18.2%",
+      "Cell Type": "Polycrystalline",
+      "Dimensions": "1956 x 992 x 40mm",
+      "Weight": "22 kg",
+      "Warranty": "25 years performance, 10 years product"
+    },
+    "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=800&q=80"
+  },
+  {
+    "id": "string-inverter-8kw",
+    "name": "8kW String Inverter",
+    "description": "High-performance string inverter for commercial and large residential solar systems. Features advanced MPPT technology for optimal energy harvest.",
+    "specifications": {
+      "Power Rating": "8kW",
+      "Max Input Voltage": "1000V DC",
+      "Output Voltage": "230/400V AC",
+      "Efficiency": "98.2%",
+      "MPPT Trackers": "2",
+      "Protection Rating": "IP65",
+      "Warranty": "10 years"
+    },
+    "image": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&q=80"
+  },
+  {
+    "id": "battery-storage-5kwh",
+    "name": "5kWh Compact Battery System",
+    "description": "Space-saving battery storage solution perfect for apartments and small homes. Wall-mountable design with intelligent energy management.",
+    "specifications": {
+      "Capacity": "5kWh",
+      "Battery Type": "Lithium-ion NMC",
+      "Voltage": "48V",
+      "Cycle Life": "4000+ cycles at 90% DOD",
+      "Dimensions": "450 x 400 x 150mm",
+      "Weight": "48 kg",
+      "Warranty": "7 years"
+    },
+    "image": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=800&q=80"
+  }
+]
